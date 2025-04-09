@@ -1,0 +1,16 @@
+- address: Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU
+  name: System
+  
+- address: Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF
+  name: The Elector
+
+- address: Ef9VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVbxn
+  name: The Config
+  
+- address: Ef80UXx731GHxVr0-LYf3DIViMerdo3uJLAG3ykQZFjXz2kW
+  name: Log Tests
+
+- address: UQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJKZ
+  name: Burn Address
+  type: wallet
+  img: #place public link here
