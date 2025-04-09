@@ -2,7 +2,7 @@
 
 This is an address book for [explorer.ice.io](https://explorer.ice.io) explorer. It is build automatically from `.yaml` files and published at [this url](https://address-book.explorer.ice.io/addresses.json). 
 
-Address book is used to substitute some popular and important TON addresses with human readable names. It is **not** used in tonscan.org search. If you'd like to add your address into the search, please open an issue.
+Address book is used to substitute some popular and important ION addresses with human readable names. It is **not** used in tonscan.org search. If you'd like to add your address into the search, please open an issue.
 
 ## Contributing
 Just add your address to the appropriate **.yaml** file in the [`source`](https://github.com/ice-blockchain/ion-address-book/blob/master/source) directory.
