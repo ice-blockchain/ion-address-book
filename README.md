@@ -11,7 +11,7 @@ How to choose category:
 
 - [**community.yaml**](https://github.com/ice-blockchain/ion-address-book/blob/master/source/community.yaml) is for notable community projects: NFTs, marketplaces, bots, etc.
 - [**exchanges.yaml**](https://github.com/ice-blockchain/ion-address-book/blob/master/source/exchanges.yaml) is for exchanges and DEXes.
-- [**system.yaml**](https://github.com/ice-blockchain/ion-address-book/blob/master/source/system.yaml) is for core blockchain contracts like root DNS, pow-givers, elector etc.
+- [**system.yaml**](https://github.com/ice-blockchain/ion-address-book/blob/master/source/system.yaml) is for core blockchain contracts like root DNS, elector etc.
 - [**validators.yaml**](https://github.com/ice-blockchain/ion-address-book/blob/master/source/validators.yaml) is for validators and pools.
 - [**people.yaml**](https://github.com/ice-blockchain/ion-address-book/blob/master/source/people.yaml) is for celebreties and famous people.
 - [**scam.yaml**](https://github.com/ice-blockchain/ion-address-book/blob/master/source/scam.yaml) – all addresses in this file will be marked with red SCAM badge.
@@ -32,7 +32,7 @@ Entry structure must be as follows:
 
 **⚠️ Important:** use `wallet` type for **all wallets** (including validator addresses) and **uninit** addresses.
 
-This field is needed because some addresses in TON have to be in other format (UQ vs EQ). The address itself can be in any format, just set the correct `type`.
+This field is needed because some addresses in ION have to be in other format (UQ vs EQ). The address itself can be in any format, just set the correct `type`.
 
 
 ## Building
